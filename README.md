@@ -10,4 +10,4 @@ Live picture from a USB endoscope camera on a Raspberry Pi with C-Berry28 displa
 * Backlight value is set to 200 (max. 255)
 
 ## Resources
-* https://www.admatec.de/pdfs/C-Berry28.pdf
+* C-Berry28 datasheet: https://www.admatec.de/pdfs/C-Berry28.pdf
