@@ -1,5 +1,5 @@
 # cberry28endoscope
-Live picture from a USB endoscope camera on a Raspberry Pi with C-Berry28 display using OpenCV
+Live USB endoscope camera monitor on a Raspberry Pi with C-Berry28 display using OpenCV
 
 ## Features
 * Automatically connect to first camera found
