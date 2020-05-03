@@ -10,7 +10,7 @@ Live USB endoscope camera monitor on a Raspberry Pi with C-Berry28 display using
 * Dependencies:
   * OpenCV 4 (tested with package extra/opencv 4.3.0-4 on Arch Linux ARM https://archlinuxarm.org/)
   * bcm2835 library http://www.airspayce.com/mikem/bcm2835/ (tested with version 1.52)
-  * tft.*, ST7789.* and bmp.* files are taken from C-Berry28 software package (see p. 12 of the datasheet linked below)
+  * tft.\*, ST7789.\* and bmp.\* files are taken from C-Berry28 software package (see p. 12 of the datasheet linked below)
 * To build, just use the `make` command
 * Scaled image is converted to bitmap format for the display framebuffer
 * 640x480 capture resolution is a tradeoff between framerate and image quality (Raspberry Pi 2B used)
