@@ -7,6 +7,7 @@ Live USB endoscope camera monitor on a Raspberry Pi with C-Berry28 display using
 * Exit on error (combine with autostart loop script below for use with defective USB camera cables)
 
 ## Additional Information
+* To build, just use the `make` command
 * Dependencies:
   * bcm2835 library http://www.airspayce.com/mikem/bcm2835/ (tested with version 1.52)
   * tft.*, ST7789.* and bmp.* files are taken from C-Berry28 software package (see p. 12 of the linked datasheet below)
